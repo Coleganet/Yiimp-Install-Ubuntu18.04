@@ -280,6 +280,13 @@ sudo -- bash -c 'echo "mcrypt.so" >>/etc/php/7.2/fpm/php.ini'
     sudo sed -i 's/AdminRights/'$admin_panel'/' $HOME/yiimp/web/yaamp/modules/site/SiteController.php
     sudo cp -r $HOME/yiimp/web /var/
     sudo mkdir -p /var/stratum
+    cd $HOME/yiimp/stratum/iniparser
+    make
+    cd .. 
+    sudo apt-get install libnghttp2-dev
+    
+    
+    make
     cd $HOME/yiimp/stratum
     sudo cp -a config.sample/. /var/stratum/config
     sudo cp -r stratum /var/stratum

@@ -284,8 +284,7 @@ sudo -- bash -c 'echo "mcrypt.so" >>/etc/php/7.2/fpm/php.ini'
     make
     cd .. 
     sudo apt-get install libnghttp2-dev
-    
-    
+    apt-get install libpsl-dev
     make
     cd $HOME/yiimp/stratum
     sudo cp -a config.sample/. /var/stratum/config

@@ -1,7 +1,7 @@
 #!/bin/bash
 ################################################################################
-# Author: Xavatar (https://github.com/xavatar/yiimp_install_scrypt)
-# Web: https://www.xavatar.com    
+# Author: Coleganet
+# Web: https://coleganet.com    
 #
 # Program:
 #   Remove all coin in Yiimp

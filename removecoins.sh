@@ -1116,3 +1116,42 @@ sudo yiimp coin QNT delete
 sudo yiimp coin ELF delete
 sudo yiimp coin BTU delete
 sudo yiimp coin DRGN delete
+yiimp coin CHZ delete	
+yiimp coin CHR	delete	
+yiimp coin CHESS delete	
+yiimp coin CAKE delete	
+yiimp coin		
+yiimp coin C98 delete							 
+yiimp coin BZRX delete							
+yiimp coin BVOL delete							
+yiimp coin BUSD delete							
+yiimp coin BURGER delete							
+yiimp coin BTRST delete							
+yiimp coin BTCST delete							
+yiimp coin BSVBULL delete						
+yiimp coin BSVBEAR delete						
+yiimp coin BP delete							
+yiimp coin BOBA delete							
+yiimp coin BLY delete						
+yiimp coin BIT delete						
+yiimp coin BID delete						
+yiimp coin BCHC delete							
+yiimp coin BDP delete						
+yiimp coin BCHBEAR delete						 
+yiimp coin BCHBEAR delete						
+yiimp coin B20 delete						
+yiimp coin BABYDOGE delete							
+yiimp coin AXS delete						
+yiimp coin AXS delete						
+yiimp coin AUTO delete							
+yiimp coin AVA delete						
+yiimp coin ANY delete						
+yiimp coin AUDIO delete							
+yiimp coin ALPHA delete							
+yiimp coin ANGLE delete							
+yiimp coin ALICE delete							
+yiimp coin ALPACA delete							
+yiimp coin AGLD delete							
+yiimp coin AKITA delete							
+yiimp coin ACH1 delete							
+yiimp coin ADEL delete	
